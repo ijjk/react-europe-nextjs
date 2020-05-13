@@ -23,6 +23,5 @@
 - Environment variable support
 - Possible break
 - Heavy CMS or Static content example
-- Extras if time
-  - Deploying Next.js applications
-  - Sneak peak into upcoming custom routes support
+- Deploying Next.js applications
+- Sneak peak into upcoming custom routes support
